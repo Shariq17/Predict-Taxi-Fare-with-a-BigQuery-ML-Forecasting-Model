@@ -14,3 +14,9 @@ Steps for this lab:
 4)Create a forecasting (linear regression) model in BQML.
 
 5)Evaluate the performance of your machine learning model.
+
+For the complete lab:
+https://www.qwiklabs.com/focuses/1797?parent=catalog
+
+My certification:
+https://www.qwiklabs.com/public_profiles/0014b9fd-3b08-48c6-ba1a-d4d15b3f7c82
